@@ -1,0 +1,7 @@
+#
+# Pixelperfect_Importer modman file
+#
+
+app/etc/modules/Pixelperfect_Importer.xml app/etc/modules/Pixelperfect_Importer.xml
+
+app/code/community/Pixelperfect/Importer app/code/community/Pixelperfect/Importer

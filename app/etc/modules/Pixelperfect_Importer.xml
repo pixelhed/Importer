@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Pixelperfect_Importer>
+             <active>true</active>
+             <codePool>local</codePool>
+             <depends>
+             </depends>
+        </Pixelperfect_Importer>
+    </modules>
+</config>
